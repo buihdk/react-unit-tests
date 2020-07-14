@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomModal renders without crashing 1`] = `
+<Modal
+  cancelText=""
+  closable={false}
+  confirmLoading={false}
+  maskTransitionName="fade"
+  okText=""
+  okType="primary"
+  onCancel={[Function]}
+  onOk={[Function]}
+  title=""
+  transitionName="zoom"
+  visible={false}
+  width={400}
+>
+  <Component />
+</Modal>
+`;

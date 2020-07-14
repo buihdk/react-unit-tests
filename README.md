@@ -1,13 +1,11 @@
-# React App Starter
-This project template was set up from scratch without using [create-react-app](https://github.com/facebook/create-react-app) boilerplate code. This project includes the below vendor packages.
+# React Unit Tests
+This project is to showcase writing unit tests in React.
 
-Author: **Khoa Bui**
+Testing libraries:
+- jest
+- enzyme
+- @testing-library/react-hooks
 
-## Added packages
-- [x] React and ReactDOM
-- [x] Jest, Enzyme, and other test libraries
-- [x] Babel, Babel plugins, and Babel CLI
-- [x] Webpack, Webpack Dev Server, and Webpack CLI
-- [x] Eslint and Prettier
-- [x] Loader modules
-- [x] PropTypes
+To start, run `yarn install` to install all dependency packages.
+
+To run tests, run `yarn test` at root directory. When the tests are all ran, coverage report is located in `coverage/Icov-report/src/index.html`.

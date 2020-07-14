@@ -1,0 +1,169 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renderDeliveryStatus render Delivery Status 0 1`] = `
+<ForwardRef
+  arrowPointAtCenter={false}
+  autoAdjustOverflow={true}
+  mouseEnterDelay={0.1}
+  mouseLeaveDelay={0.1}
+  placement="top"
+  title="[missing \\"en.deliveryStatus.pending\\" translation]"
+  transitionName="zoom-big-fast"
+>
+  <Progress
+    percent={100}
+    showInfo={false}
+    size="default"
+    strokeColor="#898d97"
+    strokeLinecap="round"
+    trailColor={null}
+    type="line"
+  />
+</ForwardRef>
+`;
+
+exports[`renderDeliveryStatus render Delivery Status 1 1`] = `
+<ForwardRef
+  arrowPointAtCenter={false}
+  autoAdjustOverflow={true}
+  mouseEnterDelay={0.1}
+  mouseLeaveDelay={0.1}
+  placement="top"
+  title="[missing \\"en.deliveryStatus.healthy\\" translation]"
+  transitionName="zoom-big-fast"
+>
+  <Progress
+    percent={100}
+    showInfo={false}
+    size="default"
+    strokeColor="#00b14f"
+    strokeLinecap="round"
+    trailColor={null}
+    type="line"
+  />
+</ForwardRef>
+`;
+
+exports[`renderDeliveryStatus render Delivery Status 2 1`] = `
+<ForwardRef
+  arrowPointAtCenter={false}
+  autoAdjustOverflow={true}
+  mouseEnterDelay={0.1}
+  mouseLeaveDelay={0.1}
+  placement="top"
+  title="[missing \\"en.deliveryStatus.borderline\\" translation]"
+  transitionName="zoom-big-fast"
+>
+  <Progress
+    percent={100}
+    showInfo={false}
+    size="default"
+    strokeColor="#f7c942"
+    strokeLinecap="round"
+    trailColor={null}
+    type="line"
+  />
+</ForwardRef>
+`;
+
+exports[`renderDeliveryStatus render Delivery Status 3 1`] = `
+<ForwardRef
+  arrowPointAtCenter={false}
+  autoAdjustOverflow={true}
+  mouseEnterDelay={0.1}
+  mouseLeaveDelay={0.1}
+  placement="top"
+  title="[missing \\"en.deliveryStatus.inDanger\\" translation]"
+  transitionName="zoom-big-fast"
+>
+  <Progress
+    percent={100}
+    showInfo={false}
+    size="default"
+    strokeColor="#ee6352"
+    strokeLinecap="round"
+    trailColor={null}
+    type="line"
+  />
+</ForwardRef>
+`;
+
+exports[`renderDeliveryStatus render Delivery Status 4 1`] = `
+<ForwardRef
+  arrowPointAtCenter={false}
+  autoAdjustOverflow={true}
+  mouseEnterDelay={0.1}
+  mouseLeaveDelay={0.1}
+  placement="top"
+  title="[missing \\"en.deliveryStatus.finished\\" translation]"
+  transitionName="zoom-big-fast"
+>
+  <Progress
+    percent={100}
+    showInfo={false}
+    size="default"
+    strokeColor="#00b14f"
+    strokeLinecap="round"
+    trailColor={null}
+    type="line"
+  />
+</ForwardRef>
+`;
+
+exports[`renderDeliveryStatus render Delivery Status 5 1`] = `
+<ForwardRef
+  arrowPointAtCenter={false}
+  autoAdjustOverflow={true}
+  mouseEnterDelay={0.1}
+  mouseLeaveDelay={0.1}
+  placement="top"
+  title="[missing \\"en.deliveryStatus.underdelivered\\" translation]"
+  transitionName="zoom-big-fast"
+>
+  <Progress
+    percent={100}
+    showInfo={false}
+    size="default"
+    strokeColor="#ee6352"
+    strokeLinecap="round"
+    trailColor={null}
+    type="line"
+  />
+</ForwardRef>
+`;
+
+exports[`renderDeliveryStatus render Delivery Status 6 1`] = `
+<ForwardRef
+  arrowPointAtCenter={false}
+  autoAdjustOverflow={true}
+  mouseEnterDelay={0.1}
+  mouseLeaveDelay={0.1}
+  placement="top"
+  title="[missing \\"en.deliveryStatus.pending\\" translation]"
+  transitionName="zoom-big-fast"
+>
+  <Progress
+    percent={100}
+    showInfo={false}
+    size="default"
+    strokeColor="#898d97"
+    strokeLinecap="round"
+    trailColor={null}
+    type="line"
+  />
+</ForwardRef>
+`;
+
+exports[`utils mapSortQueryToParams map correctly 1`] = `
+Object {
+  "OrderBy": "OrderByNone",
+  "SortBy": "FlightSortByNone",
+}
+`;
+
+exports[`utils mapSortQueryToParams map correctly 2`] = `
+Object {
+  "OrderBy": "OrderByNone",
+  "SortBy": "FlightSortByName",
+}
+`;

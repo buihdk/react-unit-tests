@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ViewabilityMeasurement renders without crashing 1`] = `
+<Row>
+  <CustomAlert
+    className=""
+    description="[missing \\"en.measurement.description\\" translation]"
+    message="[missing \\"en.measurement.title\\" translation]"
+  />
+  <Alert
+    message="[missing \\"en.messages.inputOneItemPerLine\\" translation]"
+    showIcon={true}
+    type="warning"
+  />
+  <FormItem
+    label="[missing \\"en.measurement.measurementJSURLs\\" translation]"
+    labelCol={
+      Object {
+        "span": 24,
+      }
+    }
+    wrapperCol={
+      Object {
+        "span": 24,
+      }
+    }
+  >
+    <TextArea
+      rows={4}
+    />
+  </FormItem>
+  <FormItem
+    label="[missing \\"en.measurement.measurementVendorKeys\\" translation]"
+    labelCol={
+      Object {
+        "span": 24,
+      }
+    }
+    wrapperCol={
+      Object {
+        "span": 24,
+      }
+    }
+  >
+    <TextArea
+      rows={4}
+    />
+  </FormItem>
+  <FormItem
+    label="[missing \\"en.measurement.measurementParams\\" translation]"
+    labelCol={
+      Object {
+        "span": 24,
+      }
+    }
+    wrapperCol={
+      Object {
+        "span": 24,
+      }
+    }
+  >
+    <TextArea
+      rows={4}
+    />
+  </FormItem>
+  <FormItem
+    help="[missing \\"en.measurement.equalMeasurementLengthsErrorMsg\\" translation]"
+    validateStatus="error"
+  />
+</Row>
+`;

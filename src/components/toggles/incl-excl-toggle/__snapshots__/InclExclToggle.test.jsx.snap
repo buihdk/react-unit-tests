@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InclExclToggle renders without crashing  1`] = `
+<div>
+  <Memo([object Object])>
+    <Radio
+      type="radio"
+      value="include"
+    >
+      [missing "en.types.siteZoneType.include" translation]
+    </Radio>
+    <Radio
+      type="radio"
+      value="exclude"
+    >
+      [missing "en.types.siteZoneType.exclude" translation]
+    </Radio>
+  </Memo([object Object])>
+</div>
+`;

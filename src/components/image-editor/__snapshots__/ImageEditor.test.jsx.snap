@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Upload Component renders without crashing 1`] = `
+<Modal
+  centered={true}
+  closable={false}
+  confirmLoading={false}
+  footer={null}
+  handleCancel={[Function]}
+  maskTransitionName="fade"
+  okType="primary"
+  transitionName="zoom"
+  visible={false}
+  width="100%"
+>
+  <ReactCropper
+    aspectRatio={2.5}
+    autoCropArea={1}
+    data={null}
+    dragMode="crop"
+    enable={true}
+    guides={false}
+    minContainerHeight={1}
+    minContainerWidth={1}
+    minCropBoxHeight={40}
+    minCropBoxWidth={40}
+    movable={false}
+    rotateTo={0}
+    scaleX={1}
+    scaleY={1}
+    src="src"
+    style={Object {}}
+    zoomTo={1}
+    zoomable={false}
+  />
+  <Button
+    block={false}
+    ghost={false}
+    htmlType="button"
+    loading={false}
+    onClick={[Function]}
+  >
+    [missing "en.common.cancel" translation]
+  </Button>
+  <Button
+    block={false}
+    ghost={false}
+    htmlType="button"
+    loading={false}
+    onClick={[Function]}
+  >
+    [missing "en.common.confirm" translation]
+  </Button>
+</Modal>
+`;

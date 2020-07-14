@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomAlert renders without crashing 1`] = `
+<Alert
+  className=""
+  description={
+    <span>
+      Description
+    </span>
+  }
+  message={
+    <span>
+      Message
+    </span>
+  }
+/>
+`;

@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ButtonGroup renders without crashing 1`] = `
+<div
+  className=""
+>
+  <Button
+    block={false}
+    className=""
+    ghost={false}
+    htmlType="button"
+    loading={false}
+    onClick={[Function]}
+  >
+    [missing "en.common.cancel" translation]
+  </Button>
+  <Button
+    block={false}
+    ghost={false}
+    htmlType="button"
+    loading={false}
+    onClick={[Function]}
+    type="primary"
+  >
+    [missing "en.common.save" translation]
+  </Button>
+</div>
+`;
+
+exports[`ButtonGroup renders without crashing with submit form 1`] = `
+<div
+  className=""
+>
+  <Button
+    block={false}
+    className=""
+    ghost={false}
+    htmlType="button"
+    loading={false}
+    onClick={[Function]}
+  >
+    [missing "en.common.cancel" translation]
+  </Button>
+  <Button
+    block={false}
+    ghost={false}
+    htmlType="submit"
+    loading={false}
+    onClick={[Function]}
+    type="primary"
+  >
+    [missing "en.common.save" translation]
+  </Button>
+</div>
+`;

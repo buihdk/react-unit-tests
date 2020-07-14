@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreateButton renders without crashing 1`] = `
+<Button
+  block={false}
+  className="button"
+  ghost={false}
+  htmlType="button"
+  loading={false}
+  onClick={[Function]}
+  type="primary"
+>
+  <ForwardRef(HomeOutlined) />
+  [missing "en.campaigns.create" translation]
+</Button>
+`;

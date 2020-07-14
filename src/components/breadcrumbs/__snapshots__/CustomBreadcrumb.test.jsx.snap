@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Custom Breadcrumb renders without crashing  1`] = `
+<Breadcrumb
+  separator=">"
+/>
+`;
+
+exports[`Custom Breadcrumb should render with items 1`] = `
+<Breadcrumb
+  separator=">"
+>
+  <BreadcrumbItem
+    key="[object Object]"
+  >
+    <Link
+      to="/"
+    >
+       
+      Campaign List
+    </Link>
+  </BreadcrumbItem>
+  <BreadcrumbItem
+    key="[object Object]"
+  >
+    Campaign Detail
+  </BreadcrumbItem>
+</Breadcrumb>
+`;

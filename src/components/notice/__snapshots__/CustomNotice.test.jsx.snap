@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomNotice renders without crashing 1`] = `
+<div>
+  <span>
+    [missing "en.common.noticeText.part1" translation]
+    <strong>
+       
+       
+    </strong>
+    [missing "en.common.noticeText.part2" translation]
+  </span>
+  <Button
+    block={false}
+    ghost={false}
+    htmlType="button"
+    loading={false}
+    onClick={[Function]}
+    type="ghost"
+  />
+</div>
+`;

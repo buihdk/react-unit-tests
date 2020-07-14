@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AndOrToggle renders without crashing  1`] = `
+<div>
+  <CustomAlert
+    className=""
+    description="[missing \\"en.messages.flights.propertiesTargeting.description\\" translation]"
+    message="[missing \\"en.messages.flights.propertiesTargeting.message\\" translation]"
+  />
+  <div>
+    <span>
+      [missing "en.common.select" translation]
+    </span>
+    <Memo([object Object])
+      buttonStyle="solid"
+      onChange={[Function]}
+    >
+      <ForwardRef(RadioButton)
+        buttonStyle="secondary"
+        value="and"
+      >
+        [MISSING "EN.COMMON.AND" TRANSLATION]
+      </ForwardRef(RadioButton)>
+      <ForwardRef(RadioButton)
+        buttonStyle="secondary"
+        value="or"
+      >
+        [MISSING "EN.COMMON.OR" TRANSLATION]
+      </ForwardRef(RadioButton)>
+    </Memo([object Object])>
+    <div>
+      <span>
+         
+        [missing "en.messages.note" translation]
+         
+      </span>
+      [missing "en.messages.propertiesNote" translation]
+    </div>
+  </div>
+</div>
+`;
