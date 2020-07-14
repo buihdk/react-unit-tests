@@ -4,8 +4,8 @@ exports[`ViewabilityMeasurement renders without crashing 1`] = `
 <Row>
   <CustomAlert
     className=""
-    description="[missing \\"en.measurement.description\\" translation]"
-    message="[missing \\"en.measurement.title\\" translation]"
+    description="Tracking measurement resources from vendors"
+    message="Viewability Measurement"
   />
   <Alert
     message="[missing \\"en.messages.inputOneItemPerLine\\" translation]"
@@ -13,7 +13,7 @@ exports[`ViewabilityMeasurement renders without crashing 1`] = `
     type="warning"
   />
   <FormItem
-    label="[missing \\"en.measurement.measurementJSURLs\\" translation]"
+    label="Measurement JS URLs"
     labelCol={
       Object {
         "span": 24,
@@ -30,7 +30,7 @@ exports[`ViewabilityMeasurement renders without crashing 1`] = `
     />
   </FormItem>
   <FormItem
-    label="[missing \\"en.measurement.measurementVendorKeys\\" translation]"
+    label="Measurement Vendor Keys"
     labelCol={
       Object {
         "span": 24,
@@ -47,7 +47,7 @@ exports[`ViewabilityMeasurement renders without crashing 1`] = `
     />
   </FormItem>
   <FormItem
-    label="[missing \\"en.measurement.measurementParams\\" translation]"
+    label="Measurement Params"
     labelCol={
       Object {
         "span": 24,
@@ -64,7 +64,7 @@ exports[`ViewabilityMeasurement renders without crashing 1`] = `
     />
   </FormItem>
   <FormItem
-    help="[missing \\"en.measurement.equalMeasurementLengthsErrorMsg\\" translation]"
+    help="The three measurements above must have the same number of items."
     validateStatus="error"
   />
 </Row>

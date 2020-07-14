@@ -9,7 +9,7 @@ exports[`AndOrToggle renders without crashing  1`] = `
   />
   <div>
     <span>
-      [missing "en.common.select" translation]
+      Select
     </span>
     <Memo([object Object])
       buttonStyle="solid"
@@ -19,13 +19,13 @@ exports[`AndOrToggle renders without crashing  1`] = `
         buttonStyle="secondary"
         value="and"
       >
-        [MISSING "EN.COMMON.AND" TRANSLATION]
+        AND
       </ForwardRef(RadioButton)>
       <ForwardRef(RadioButton)
         buttonStyle="secondary"
         value="or"
       >
-        [MISSING "EN.COMMON.OR" TRANSLATION]
+        OR
       </ForwardRef(RadioButton)>
     </Memo([object Object])>
     <div>

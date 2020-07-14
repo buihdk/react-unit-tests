@@ -7,7 +7,7 @@ exports[`renderDeliveryStatus render Delivery Status 0 1`] = `
   mouseEnterDelay={0.1}
   mouseLeaveDelay={0.1}
   placement="top"
-  title="[missing \\"en.deliveryStatus.pending\\" translation]"
+  title="Pending"
   transitionName="zoom-big-fast"
 >
   <Progress
@@ -29,7 +29,7 @@ exports[`renderDeliveryStatus render Delivery Status 1 1`] = `
   mouseEnterDelay={0.1}
   mouseLeaveDelay={0.1}
   placement="top"
-  title="[missing \\"en.deliveryStatus.healthy\\" translation]"
+  title="Healthy"
   transitionName="zoom-big-fast"
 >
   <Progress
@@ -51,7 +51,7 @@ exports[`renderDeliveryStatus render Delivery Status 2 1`] = `
   mouseEnterDelay={0.1}
   mouseLeaveDelay={0.1}
   placement="top"
-  title="[missing \\"en.deliveryStatus.borderline\\" translation]"
+  title="Borderline"
   transitionName="zoom-big-fast"
 >
   <Progress
@@ -73,7 +73,7 @@ exports[`renderDeliveryStatus render Delivery Status 3 1`] = `
   mouseEnterDelay={0.1}
   mouseLeaveDelay={0.1}
   placement="top"
-  title="[missing \\"en.deliveryStatus.inDanger\\" translation]"
+  title="In Danger"
   transitionName="zoom-big-fast"
 >
   <Progress
@@ -95,7 +95,7 @@ exports[`renderDeliveryStatus render Delivery Status 4 1`] = `
   mouseEnterDelay={0.1}
   mouseLeaveDelay={0.1}
   placement="top"
-  title="[missing \\"en.deliveryStatus.finished\\" translation]"
+  title="Finished"
   transitionName="zoom-big-fast"
 >
   <Progress
@@ -117,7 +117,7 @@ exports[`renderDeliveryStatus render Delivery Status 5 1`] = `
   mouseEnterDelay={0.1}
   mouseLeaveDelay={0.1}
   placement="top"
-  title="[missing \\"en.deliveryStatus.underdelivered\\" translation]"
+  title="Underdelivered"
   transitionName="zoom-big-fast"
 >
   <Progress
@@ -139,7 +139,7 @@ exports[`renderDeliveryStatus render Delivery Status 6 1`] = `
   mouseEnterDelay={0.1}
   mouseLeaveDelay={0.1}
   placement="top"
-  title="[missing \\"en.deliveryStatus.pending\\" translation]"
+  title="Pending"
   transitionName="zoom-big-fast"
 >
   <Progress

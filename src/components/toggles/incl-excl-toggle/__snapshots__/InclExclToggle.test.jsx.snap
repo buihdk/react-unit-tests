@@ -7,13 +7,13 @@ exports[`InclExclToggle renders without crashing  1`] = `
       type="radio"
       value="include"
     >
-      [missing "en.types.siteZoneType.include" translation]
+      Include
     </Radio>
     <Radio
       type="radio"
       value="exclude"
     >
-      [missing "en.types.siteZoneType.exclude" translation]
+      Exclude
     </Radio>
   </Memo([object Object])>
 </div>

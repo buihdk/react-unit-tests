@@ -40,7 +40,7 @@ exports[`Test Upload Component renders without crashing 1`] = `
     loading={false}
     onClick={[Function]}
   >
-    [missing "en.common.cancel" translation]
+    Cancel
   </Button>
   <Button
     block={false}
@@ -49,7 +49,7 @@ exports[`Test Upload Component renders without crashing 1`] = `
     loading={false}
     onClick={[Function]}
   >
-    [missing "en.common.confirm" translation]
+    Confirm
   </Button>
 </Modal>
 `;

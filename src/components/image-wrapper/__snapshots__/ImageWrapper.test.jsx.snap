@@ -16,7 +16,7 @@ exports[`Test Image Wrapper render with props 1`] = `
 exports[`Test Image Wrapper renders without crashing 1`] = `
 <div>
   <p>
-    [missing "en.common.noImage" translation]
+    No image
   </p>
 </div>
 `;

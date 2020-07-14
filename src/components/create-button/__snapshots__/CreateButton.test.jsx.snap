@@ -11,6 +11,6 @@ exports[`CreateButton renders without crashing 1`] = `
   type="primary"
 >
   <ForwardRef(HomeOutlined) />
-  [missing "en.campaigns.create" translation]
+  Create a New Campaign
 </Button>
 `;

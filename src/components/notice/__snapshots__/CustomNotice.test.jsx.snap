@@ -3,12 +3,12 @@
 exports[`CustomNotice renders without crashing 1`] = `
 <div>
   <span>
-    [missing "en.common.noticeText.part1" translation]
+    Your query
     <strong>
        
        
     </strong>
-    [missing "en.common.noticeText.part2" translation]
+    is in invalid format and not supported in Campaign UI.
   </span>
   <Button
     block={false}
