@@ -248,7 +248,7 @@ describe('isAvailableAllTime', () => {
   describe('getErrorTab', () => {
     test('should return error tab', () => {
       const errors = {
-        creativeName: 'creativeName',
+        adName: 'adName',
         imageAd: 'imageAd',
       };
       const result = { errorTab: 'creative' };
